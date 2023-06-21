@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=vickyguptaa7">
 </a>
 <p align="center">
-    <a href="https://github.com/vickyguptaa/">
+    <a href="https://github.com/vickyguptaa7/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vicky Gupta streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vickyguptaa7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
